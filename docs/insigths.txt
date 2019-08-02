@@ -1,0 +1,70 @@
+Pessoas sim, usuários não
+
+---------------------------------------------------
+Empatia
+Mais que uma técnica, na verdade, essa é uma habilidade. Como toda habilidade, ela é desenvolvida com prática.
+
+fazer um exercício consciente e constante para eliminar seu próprio ponto de vista
+
+---------------------------------------------------
+Quando fazer pesquisa em UX design?
+A resposta é “sempre”. É claro que, se você possui conhecimento amplo como usuário do que você está avaliando, será mais simples, nas fases iniciais de desenvolvimento, formular hipóteses para aquele tópico. Porém, novamente, o risco de que você tenha uma visão míope sobre ele ainda existe. Além do mais, quanto mais insights você puder capturar, seja durante o primeiro levantamento ou nas análises finais, melhor.
+
+Logo, é possível se beneficiar das trocas com os usuários em todas as etapas. Mas suas funções, bem como as metodologias mais adequadas a cada uma, variam:
+
+Estratégia
+No começo, você está considerando novas ideias e oportunidades e precisa de inspiração para decidir que caminhos seguir em sua pesquisa. As técnicas possíveis são diversas, indo de estudos de campo a mineração de dados, passando por questionários online. O importante é reunir referências e insumos que ajudem a esclarecer os próximos passos.
+
+Execução
+Uma hora, chega o momento em que parece que tudo está nos conformes para avançar. No entanto, para minimizar riscos na hora de executar e melhorar a usabilidade, é essencial ter a validação dos usuários. É como ter todos os vegetais cortadinhos, prontos para ir para a panela, e chamar quem vai comer só para ter certeza se ele gosta mesmo de jiló. Nesse estágio, as melhores técnicas são principalmente qualitativas e formativas.
+
+Avaliação
+Seu produto está (quase) pronto e poderá ser testado por uma quantidade significativa de usuários. Nessa altura, cabe ao UX designer medir sua performance, geralmente utilizando métodos quantitativos, comparando-o ao seu próprio histórico ou à concorrência.
+
+---------------------------------------------------
+Pesquisa
+Criando um questionário para:
+
+melhor entendimento do problema
+geração de insights
+entender preferencias
+coletar dados do usuário
+definição de personas
+
+Entregáveis
+- Personas;
+- Jornada do usuário;
+- Moodboard;
+- Atomic Design
+- Style guide;
+- Wireframes;
+- Prototipação Hi-fi;
+- Validação;
+- Case.
+
+
+Hipóteses:
+
+- Os problemas gerados com filas em locais de atendimentos é inversamente proporcional ao nível de entendimento de sistemas de auto atendimento;
+
+- Sistemas não intuitivos são ligados diretamente aos processos não humanizados em centrais de atendimento;
+
+- A aprovação por utilização de biometria como acesso em lugares esta diretamente ligada a falta de sistemas que resolvam melhor os problemas do usuário
+
+---------------------------------------------------
+Quanto mais personas você cria, menor será a probabilidade de satisfazer qualquer uma delas.
+
+A prescrição original de Cooper para personas basicamente diz que, se você puder projetar algo que delicia uma única persona, o resto seguirá. E, como ele diz, “ampliar o seu alvo não melhora a sua pontaria”.
+
+---------------------------------------------------
+
+Porquês
+
+- porque leitura digital no meio? Melhor acessibilidade para destros e canhotos
+- uso da câmera nos visitantes? CPF é bom mas foto é melhor ainda
+- mensagem de leitura biométrica no canto para melhor visualização
+
+Cuidando da empresa e do meio ambiente
+
+- Produzir animações na tela principal e cuidando assim da vida útil dos monitores
+- Do crachá será jogado fora apenas o papel o que é bem melhor em se tratando de se jogar fora o plástico
